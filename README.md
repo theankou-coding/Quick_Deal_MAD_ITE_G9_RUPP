@@ -2,7 +2,7 @@
 
 Quick Deal is a Business Discount Aggregator App designed to help users find the best discounts and deals from various businesses in Phnom Penh.
 
-#Contact Us 
+## Contact Us 
 If you have any questions or concerns about this privacy policy, please contact us at "theankoul182@gmail.com".
 
 ## Contributors:
