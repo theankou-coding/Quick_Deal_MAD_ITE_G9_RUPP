@@ -29,7 +29,7 @@ git clone https://github.com/username/Quick_Deal_MAD_ITE_G9_RUPP.git
 4. Build and run the app on an emulator or device.
 
 ## Commit:
--Branch: master
--git commit -m "First commit"
--git pull origin master
--git push origin master
+- Branch: master
+- git commit -m "First commit"
+- git pull origin master
+- git push origin master
