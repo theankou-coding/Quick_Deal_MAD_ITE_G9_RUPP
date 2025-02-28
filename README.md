@@ -17,6 +17,7 @@ If you have any questions or concerns about this privacy policy, please contact 
 - GitHub for version control
 
 ## Installation:
+The installation just a ccalibration 
 1. Clone the repository:
 git clone https://github.com/username/Quick_Deal_MAD_ITE_G9_RUPP.git
 3. Open the project in Android Studio.
