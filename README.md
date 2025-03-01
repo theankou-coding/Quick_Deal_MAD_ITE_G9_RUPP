@@ -12,7 +12,7 @@ If you have any questions or concerns about this privacy policy, please contact 
 - Yem Davit
 
 ## Technologies Used:
--figma
+- figma
 - Java(Android Development)
 - GitHub for version control
 
